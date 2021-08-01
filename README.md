@@ -1,6 +1,8 @@
 # databases_for_vdj
-databases for V(D)J-seq
-~~Downloaded using scripts and instructions from changeo's [tutorial](https://changeo.readthedocs.io/en/stable/examples/igblast.html)~~
-Lifted from immcantation docker image v 4.1.0
+This is a repository containing compressed data for:
 
-Last update: 28/11/2020
+- IMGT igblast and germline databases for V(D)J-seq data for mouse and human. (Lifted from immcantation docker image v 4.2.0)
+
+- Reference sequences for human and mouse IGHC genes. (Downloaded and edited from [IMGT](http://www.imgt.org/vquest/refseqh.html))
+
+Last update: 01-Aug-2021
